@@ -33,4 +33,4 @@ My journey in computer networking has led me to develop a passion for cybersecur
 </div>
 
 ## Projects
-- SOC Automation Project
+<a href="https://github.com/bitshadow19/SOC-Project/blob/main/README.md">SOC Automation Project</a>
