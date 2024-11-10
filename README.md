@@ -27,9 +27,10 @@ My journey in computer networking has led me to develop a passion for cybersecur
 ## Certifications
 
 <img src="https://img.shields.io/badge/-CCNP-000080?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCNA-000080?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Meraki-000080?style=for-the-badge&logoColor=white" />
 
 </div>
 
 ## Projects
-- Detection Lab
 - SOC Automation Project
